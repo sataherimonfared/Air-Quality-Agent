@@ -50,7 +50,7 @@ graph TD
 
 ## 🧠 Why LangGraph?
 
-For this recruiter-friendly demo, I chose **LangGraph** because it moves beyond simple "chains" to actual "graphs." This allows for:
+For this demo, I chose **LangGraph** because it moves beyond simple "chains" to actual "graphs." This allows for:
 1.  **State Persistence**: Using `MemorySaver` to maintain data context across multiple analysis steps.
 2.  **Human-in-the-loop (HITL)**: Handled via `interrupt_before`, requiring human approval before finalized alerts.
 3.  **Self-Correction Cycles**: A feedback loop where the agent critiques its own summary and refines it if necessary.
@@ -127,7 +127,7 @@ streamlit run app.py
 
 **Sara Taherimonfared**
 - Email: [sara.taherimonfared@gmail.com](mailto:sara.taherimonfared@gmail.com)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/sara-taheri-monfared-phd-45946248/)
 
 ---
 *Created as a learning project to master LangGraph and production-grade AI Agent design.*
